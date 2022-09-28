@@ -1,0 +1,7 @@
+15 mark - https://www.tutorialspoint.com/android/android_hello_world_example.htm
+
+13 mark
+android architecture - https://www.tutorialspoint.com/android/android_architecture.htm
+Architecture - https://www.geeksforgeeks.org/android-architecture/
+
+feature , advantage , platform comparison - https://www.gazelle.com/thehorn/2014/02/10/the-android-operating-system-10-unique-features/
