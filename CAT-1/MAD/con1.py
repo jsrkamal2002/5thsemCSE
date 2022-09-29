@@ -3,7 +3,7 @@ from pdf2image import convert_from_path
 
 
 # Store Pdf with convert_from_path function
-images = convert_from_path('3 bigqut.pdf')
+images = convert_from_path('single code.pdf')
 # print(images)
 print("started!!!")
 
