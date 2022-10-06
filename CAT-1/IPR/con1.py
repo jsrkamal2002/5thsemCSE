@@ -3,7 +3,7 @@ from pdf2image import convert_from_path
 
 
 # Store Pdf with convert_from_path function
-images = convert_from_path('patent.pdf')
+images = convert_from_path('intellectual-property-rights BOOK PANDEY.pdf')
 # print(images)
 print("started!!!")
 
