@@ -3,7 +3,7 @@ from pdf2image import convert_from_path
 
 
 # Store Pdf with convert_from_path function
-images = convert_from_path('BlackBerry applications.pdf')
+images = convert_from_path('Notification.pdf')
 print("start")
 
 for i in range(len(images)):
