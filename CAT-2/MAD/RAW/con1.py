@@ -3,7 +3,7 @@ from pdf2image import convert_from_path
 
 
 # Store Pdf with convert_from_path function
-images = convert_from_path('Android Service.pdf')
+images = convert_from_path('BlackBerry applications.pdf')
 print("start")
 
 for i in range(len(images)):
