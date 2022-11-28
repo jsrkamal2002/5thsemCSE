@@ -4,7 +4,7 @@ from pdf2image import convert_from_path
 
 # Store Pdf with convert_from_path function
 print("started!!!")
-images = convert_from_path('FXEC_III_NW_Lab_Manual_final.pdf')
+images = convert_from_path('3.pdf')
 print(images)
 
 for i in range(len(images)):
