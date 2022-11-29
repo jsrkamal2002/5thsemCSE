@@ -4,7 +4,7 @@ from pdf2image import convert_from_path
 
 # Store Pdf with convert_from_path function
 print("started!!!")
-images = convert_from_path('001.ooad labrecord.pdf')
+images = convert_from_path('ooad_labrecord.pdf')
 print(images)
 
 for i in range(len(images)):
