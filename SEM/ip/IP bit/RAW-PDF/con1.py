@@ -4,7 +4,7 @@ from pdf2image import convert_from_path
 
 # Store Pdf with convert_from_path function
 print("started!!!")
-images = convert_from_path('XML XSLT.pdf')
+images = convert_from_path('HTML Tables.pdf')
 print(images)
 
 for i in range(len(images)):
